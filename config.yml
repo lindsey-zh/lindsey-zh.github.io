@@ -1,0 +1,22 @@
+# gpages site uses hacker theme
+theme: jekyll-theme-hacker
+
+# github pages required config
+lsi: false
+safe: true
+source: "lindsey-zh.github.io"
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# jekyll default front matter???
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
