@@ -13,6 +13,12 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+# uhhh site basics ?
+title: i put title here so pls work
+description: descr :^)
+baseurl: lindsey-zh.github.io
+
+
 # jekyll default front matter???
 defaults:
   -
